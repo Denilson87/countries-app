@@ -12,16 +12,7 @@ export default function SimpleContainer() {
       <h1>Pesquise pelo pais!</h1>    
       <TextField/>
       <Button></Button>     
-      </Container>
-      <Container maxWidth="lg" > 
-      <h1>Pesquise pelo pais!</h1>    
-      <TextField/>
-      <Button></Button>     
-      </Container> <Container maxWidth="lg" > 
-      <h1>Pesquise pelo pais!</h1>    
-      <TextField/>
-      <Button></Button>     
-      </Container>
+      </Container>    
     </React.Fragment>
   );
 }
